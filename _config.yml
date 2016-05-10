@@ -1,6 +1,6 @@
 name: Two Wheels One journey
 favicon: null
-layout_spectrum: 0.7459927881136537
+layout_spectrum: 0.94066
 typography_spectrum: 0.18469324032776058
 title: Two Wheels One journey
 cta:
@@ -22,7 +22,7 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-  brandStrength: 0.375
+  brandStrength: 0.625
   lightness: 0.625
   saturation: 0.5625
   rhythmicContrast: 0.9874000805430114
