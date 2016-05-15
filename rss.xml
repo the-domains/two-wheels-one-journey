@@ -4,7 +4,7 @@
         <description><![CDATA[Two Wheels One journey]]></description>
         <link>http://twowheelsonejourney.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 15 May 2016 23:05:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 May 2016 23:06:26 GMT</lastBuildDate>
         <atom:link href="http://twowheelsonejourney.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -19,13 +19,6 @@
             <link>http://twowheelsonejourney.com/coast/index.html</link>
             <guid isPermaLink="false">6aa61350-371f-40dd-a3d8-c7cab18c6bdf</guid>
             <pubDate>Sun, 15 May 2016 23:03:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The journey begins...]]></title>
-            <description><![CDATA[<p>Do not chase success, wealth or achievements - Go after that which makes you feel alive, and those things will chase you</p>]]></description>
-            <link>http://twowheelsonejourney.com/before-the-journey/index.html</link>
-            <guid isPermaLink="false">241c9479-9ecd-4eaf-b1a4-32aa2e2062e8</guid>
-            <pubDate>Tue, 10 May 2016 03:49:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
