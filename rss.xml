@@ -4,8 +4,15 @@
         <description><![CDATA[Two Wheels One journey]]></description>
         <link>http://twowheelsonejourney.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 15 May 2016 23:04:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 May 2016 23:05:53 GMT</lastBuildDate>
         <atom:link href="http://twowheelsonejourney.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8f39da24-48ce-4eac-abac-a79409036b6f.jpg">]]></description>
+            <link>http://twowheelsonejourney.com/the-gear/index.html</link>
+            <guid isPermaLink="false">e2e29101-1bd3-4418-98c7-55a8603433c1</guid>
+            <pubDate>Sun, 15 May 2016 23:05:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/65f555ea-52ed-4d10-a533-c820840d2e8a.jpg">]]></description>
