@@ -4,7 +4,7 @@
         <description><![CDATA[Two Wheels One journey]]></description>
         <link>http://twowheelsonejourney.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 22 May 2016 04:16:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 May 2016 00:14:53 GMT</lastBuildDate>
         <atom:link href="http://twowheelsonejourney.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>http://twowheelsonejourney.com/about/index.html</link>
             <guid isPermaLink="false">ca5f8c5a-7f41-4ecf-86dd-933c860dcadc</guid>
             <pubDate>Sun, 22 May 2016 04:16:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[the Gear]]></title>
+            <description><![CDATA[<p>the Gear</p>]]></description>
+            <link>http://twowheelsonejourney.com/the-gear/index.html</link>
+            <guid isPermaLink="false">99d319f1-427b-4db3-9cd7-a0b84b8b3f86</guid>
+            <pubDate>Mon, 23 May 2016 00:14:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
